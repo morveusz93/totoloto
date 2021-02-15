@@ -1,6 +1,8 @@
 # totoloto
 lotto lottery simulation, + data analize
 
+it is my first mini-project
+
 I'm going to create a simulation of x draws and save the results.
 Then analyze the data and print it with pleasing to the eye style.
 
